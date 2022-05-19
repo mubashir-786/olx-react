@@ -1,0 +1,27 @@
+.option{
+    border: none;
+    outline: none;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+
+.category-list{
+    width: 90%;
+    margin: auto;
+}
+
+.cate{
+    font-size: 15px;
+    margin-right: 15px;
+    
+}
+.category-list{
+    margin-left: 120px;
+   
+}
+@media screen and (min-width:375px) and (max-width:500px) {
+    .container {
+        width: 74%;
+    }
+}

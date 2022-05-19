@@ -1,0 +1,225 @@
+.carousel{
+    width: 50%;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 45vh;
+}
+.images{
+    display: inline;
+}
+.immgg{
+    width: 50%;
+    /* padding-left: 8px; */
+    margin-left: 100px;
+}
+.fffs{
+    position: relative;
+    bottom: 25px;
+}
+.pricediv {
+    width: 40%;
+    height: 40vh;
+    border: 1px solid gray;
+    display: inline-block;
+    position: relative;
+    bottom: 350px;
+    left: 620px;
+    border-radius: 5px ;
+}
+.price-font {
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.imageee{
+ border : 1px solid gray;
+ height: 40vh;
+overflow: hidden;
+}
+.titleview{
+    
+        font-weight: lighter;
+        font-size: 20px;
+        margin-left: 20px;
+    
+}
+table{
+    margin: auto;
+}
+.heart-img{
+    width: 24px;
+    position: relative;
+    bottom: 70px;
+    left: 390px;
+}
+.locate {
+    font-weight: lighter;
+    font-size: 12px;
+    position: relative;
+    top: 105px;
+    left: 20px;
+}
+.timee{
+    font-weight: lighter;
+    font-size: 12px;
+    position: relative;
+   
+    left: 310px;
+    top: 50px;
+}
+.discription-div{
+    width: 70%;
+    height: 30vh;
+    border: 1px solid gray;
+    position: relative;
+    bottom: 240px;
+    border-radius: 5px;
+    margin: auto;
+}
+.description-font{
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.descrip{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+@media screen and (min-width:375px) and (max-width:600px) {
+    .pricediv {
+        width: 100%;
+        height: 25vh;
+        border: 1px solid gray;
+        /* display: inline-block; */
+        /* position: relative; */
+        /* bottom: 194px; */
+        /* position: relative; */
+        /* right: 488px; */
+        left: 2px;
+        /* bottom: -2px; */
+        top: 28px;
+        /* right: 18px; */
+        /* left: 620px; */
+        /* border-radius: 5px; */
+    }
+    .carousel-inner {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        height: 26vh;
+    }
+    
+    .carousel {
+        width: 100%;
+    }
+    .locate {
+        font-weight: lighter;
+        font-size: 12px;
+        position: relative;
+        /* top: 136px; */
+        top: 11px;
+        left: 20px;
+    }
+    
+        .timee {
+            font-weight: lighter;
+            font-size: 12px;
+            position: relative;
+            /* left: 350px; */
+            /* top: 102px; */
+            /* bottom: 21px; */
+            /* top: 8px; */
+            left: 242px;
+            top: -21px;
+        }
+        .discription-div {
+            width: 100%;
+            height: 30vh;
+            border: 1px solid gray;
+            position: relative;
+            /* bottom: 240px; */
+            border-radius: 5px;
+            margin: auto;
+            top: 40px;
+        }
+    
+    
+}
+@media screen and (min-width:701px) and (max-width:900px) {
+  
+    .dis{
+        width: 100%;
+    }
+    .carousel {
+        width: 100%;
+    }
+    .locate {
+        font-weight: lighter;
+        font-size: 12px;
+        position: relative;
+        /* top: 136px; */
+        top: -10px;
+        left: 20px;
+    }
+    
+    .timee {
+        font-weight: lighter;
+        font-size: 12px;
+        position: relative;
+        /* left: 350px; */
+        /* top: 102px; */
+        /* bottom: 21px; */
+        /* top: 8px; */
+        left: 420px;
+        top: -43px;
+    }
+    .discription-div {
+        width: 100%;
+        height: 30vh;
+        border: 1px solid gray;
+        position: relative;
+        /* bottom: 240px; */
+        border-radius: 5px;
+        margin: auto;
+        top: 16px;
+    }
+        .pricediv {
+            width: 100%;
+            height: 25vh;
+            border: 1px solid gray;
+            /* display: inline-block; */
+            /* position: relative; */
+            /* bottom: 194px; */
+            /* position: relative; */
+            /* right: 488px; */
+            left: 2px;
+            /* bottom: -2px; */
+            top: 28px;
+            /* right: 18px; */
+            /* left: 620px; */
+            /* border-radius: 5px; */
+        }
+        .heart-img {
+            width: 24px;
+            position: relative;
+            bottom: 80px;
+            left: 450px;
+        }
+
+    
+}
+/* .main-pic{
+    border: 1px solid gray;
+    width: 50%;
+} */
+.imggg{
+    width: 40px;
+    height: 30px;
+    display: inline-block;
+
+}

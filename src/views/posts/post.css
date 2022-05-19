@@ -1,0 +1,38 @@
+.main{
+   width: 100%;
+   border: 1px solid grey;
+   display: inline-block;
+
+}
+
+.card-body{
+   border-top: 1px solid grey;
+}
+.card-img-top{
+    height: 25vh;
+}
+.dis{
+  display: inline-block;
+  margin-right: 20px;
+ 
+}
+.fav-icon {
+    width: 16px;
+    position: relative;
+    width: 22px;
+    position: relative;
+    bottom: 41px;
+    left: 190px;
+
+}
+.price{
+    position: relative;
+    bottom: 30px;
+    font-weight: 600;
+}
+.time{
+    font-weight: lighter;
+    position: absolute;
+    bottom: -10px;
+    font-size: 12px;
+}

@@ -1,0 +1,34 @@
+.footerr{
+    width: 100%;
+    background-color: #F7F8F8;
+    border-top: 1px solid gray;
+    
+}
+.head-foot{
+    font-weight: 700;
+    padding-bottom: 10px;
+    font-size: 13px;
+    
+    
+}
+.FooterEnd{
+    width: 100%;
+    background-color: #0F2F34;
+    height: 7vh;
+}
+td{
+    width: 30%;
+    font-size: 11px;
+}
+.ccc{
+    padding-bottom: 50px;
+    padding-top: 15px;
+}
+.end-namee{
+    color: white;
+    font-size: 13px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    padding-top: 9px;
+}

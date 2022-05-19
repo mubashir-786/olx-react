@@ -1,0 +1,14 @@
+.main{
+    width: 70%;
+    margin: auto;
+}
+.divv{
+    padding: 20px;
+}
+.hov{
+    cursor: pointer;
+}
+.hov:hover{
+    color: green;
+    
+}
