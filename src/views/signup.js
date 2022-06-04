@@ -21,7 +21,7 @@ export default function Signup(prop) {
   }
     return <div  class='text-center' >
 
-        <h1   > Sign Up </h1>
+        <h1> Sign Up </h1>
         <div style={{width:'70%',margin:'auto'}} >
             <img   src={!stat ? 'https://cdn-icons-png.flaticon.com/512/616/616592.png' : 'https://cdn-icons-png.flaticon.com/512/616/616591.png'} alt="" width={100} />
             <div class="input-group flex-nowrap mt-5">
