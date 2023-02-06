@@ -38,17 +38,6 @@ console.log(" user from profile  =>",userr.user)
 
                 </div>
             </div>
-            {/* <h1 className='text-center' >Profile</h1>
-            <div className='container' >
-                <div className='profile-pic' >
-                    <img src={img} class="rounded float-start" alt="..." />
-                </div>
-                <div className='profile-text' >
-                    <h1>Name : <span> {user.name} </span> </h1> 
-                    <h1>Email : <span> {user.email} </span> </h1> 
-                    <h1>Number : <span> {user.name} </span> </h1> 
-                </div>
-            </div> */}
             <div class="page-content page-container" id="page-content">
     <div class="padding">
         <div class="row container d-flex justify-content-center">
