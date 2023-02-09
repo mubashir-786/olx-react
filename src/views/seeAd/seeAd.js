@@ -31,9 +31,6 @@ export default function SeeAd(prop) {
     </div>
   }
   return <div>
-
-    {/* <button onClick={prop.onClick} > back </button>
-      <h1>this is view ad page</h1> */}
     <div className='header'>
       <div className='innerheader' >
         <img src={backimg} alt="" className='backbtn' onClick={() => { navigate('/home') }} />
