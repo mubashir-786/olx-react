@@ -11,12 +11,7 @@ import { getDownloadURL, getStorage, ref,uploadBytes } from "firebase/storage";
 // Your web app's Firebase configuration
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBMtdR8j5hgIx7yGTPwuXgA15L8wcwWGMY",
-    authDomain: "olx-70c78.firebaseapp.com",
-    projectId: "olx-70c78",
-    storageBucket: "olx-70c78.appspot.com",
-    messagingSenderId: "626075546718",
-    appId: "1:626075546718:web:a739faaef591940f5db0cf"
+// your our firebase config code
   };
   
 
