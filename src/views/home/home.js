@@ -10,7 +10,6 @@
 // export default function home(prop) {
 //   return <div>
   
-//     {/* <Category /> */}
 
  
 
