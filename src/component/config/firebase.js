@@ -115,8 +115,6 @@ async function getAds() {
 
  async function profile(){
     const userr = auth.currentUser;
-    // console.log("user ===>", userr.uid);
-    // return userr.uid
     
     
 
