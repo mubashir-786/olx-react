@@ -48,5 +48,5 @@ const AuthRoutes = ({ user }) => {
         return <Navigate to="/" />
     }
 
-    return <Outlet /> //Child componet, path="/profile"
+    return <Outlet />
 }
